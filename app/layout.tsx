@@ -3,7 +3,7 @@ import { Inter } from 'next/font/google'
 
 export const metadata = {
   title: 'READTalk - Avatar',
-  description: 'READTalk Messenger',
+  description: 'A part of READTalk app with Image Blob for avatar uploads',
 }
 
 const inter = Inter({
